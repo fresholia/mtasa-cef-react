@@ -1,0 +1,9 @@
+<meta>
+    <!--
+        @Author: github.com/cleopatradev
+        @License: MIT
+
+    -->
+    <script src="libs/classlib.lua" type="client" />
+    <script src="libs/convert.lua" type="client" />
+</meta>
